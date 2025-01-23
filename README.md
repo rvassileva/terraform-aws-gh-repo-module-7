@@ -13,3 +13,5 @@
 
 
 The simple code in this repo can be used to provision an S3 bucket in AWS. It is intentionally created using variables with an empty default values, so that the code can be reused - just like a module.
+
+https://miro.medium.com/v2/resize:fit:700/1*L2mH9z9g-b6OxB1dAWzHyw.png

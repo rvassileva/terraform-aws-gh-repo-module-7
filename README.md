@@ -14,4 +14,5 @@
 
 The simple code in this repo can be used to provision an S3 bucket in AWS. It is intentionally created using variables with an empty default values, so that the code can be reused - just like a module.
 
-![doggy](https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRrCudarkqwFoUSo6-nA8_2tgCC0u-qTDc6d2g_xgiL3wcGILxzBDMihZtLytvQheihUOX8jY8SF8DDw12HzTg)
+
+![IMG_8256](https://github.com/user-attachments/assets/b4425261-a61e-4891-aba8-07bde7f18180)

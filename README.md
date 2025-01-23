@@ -15,4 +15,4 @@
 The simple code in this repo can be used to provision an S3 bucket in AWS. It is intentionally created using variables with an empty default values, so that the code can be reused - just like a module.
 
 
-![IMG_8256](https://github.com/user-attachments/assets/b4425261-a61e-4891-aba8-07bde7f18180)
+![IMG_8256](https://raw.githubusercontent.com/rvassileva/terraform-aws-gh-repo-module-7/refs/heads/main/IMG_8256.JPG)
